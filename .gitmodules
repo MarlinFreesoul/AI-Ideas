@@ -1,0 +1,3 @@
+[submodule "Prompt-Engineering-Guide"]
+	path = Prompt-Engineering-Guide
+	url = https://github.com/dair-ai/Prompt-Engineering-Guide.git

@@ -55,6 +55,7 @@
 ### 📚 理论思考
 深入的哲学批判和意识形态分析
 - [monogent - Claude 对 LLM 的深度剖析](./理论思考/monogent-超现实的理想主义之claude对于llm的剖析.md)
+- [提示词工程的双重性 - 技术实践与意识形态批判](./理论思考/提示词工程的双重性-技术实践与意识形态批判.md)
 
 ### 🔬 应用探索
 具体的 AI 应用和技术研究，但始终带着批判性视角
@@ -101,10 +102,18 @@
 
 ## 🔗 相关资源
 
-- 理论基础：本雅明《超现实主义》
+### 理论基础
+- 本雅明《超现实主义》
+- 马克思主义批判理论
+
+### 技术参考
+- [Prompt Engineering Guide](./Prompt-Engineering-Guide/) - 全面的提示词工程指南(本地已集成)
 - 开源模型：LLaMA, Mistral, Qwen
 - 本地部署：Ollama, llama.cpp
 - 社区微调：LoRA, QLoRA
+
+### 应用框架
+- ACE (Agentic Context Engineering) - 持续学习框架
 
 ---
 
